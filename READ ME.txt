@@ -1,0 +1,17 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Details for admin : admin
+              Password :  admin@1234
+
+Login Details for Patient: admin@admin.com
+                Password : 123456
+
+Login Details for Doctor:  doc@doc.com
+                Password : 12345
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "dbase.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
